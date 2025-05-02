@@ -6,4 +6,5 @@ public interface WhirlpoolComponent {
 
     void applyEffect(ShipComponent ship);
     // Applies the teleportation effect to the ship.
+
 }

@@ -47,4 +47,5 @@ public class Whirlpool extends SeaMonsterComponent implements WhirlpoolComponent
             }
         }
     }
+
 }
