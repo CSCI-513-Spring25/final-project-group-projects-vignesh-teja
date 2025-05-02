@@ -19,4 +19,5 @@ public abstract class PirateShipDecorator implements ShipComponent {
         // Updates the location through the decorated ship.
         decoratedShip.setLocation(newX, newY);
     }
+
 }
